@@ -3,7 +3,6 @@
 import * as React from "react"
 import Link from "next/link"
 import { Link2, Menu, X } from "lucide-react"
-import { Button } from "@/components/ui/button"
 
 interface NavbarProps {
   onOpenAuth?: (mode: "login" | "signup") => void

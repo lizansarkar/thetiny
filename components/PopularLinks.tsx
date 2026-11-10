@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import { Copy, Check, QrCode, MousePointerClick, ExternalLink } from "lucide-react"
+import { Copy, Check, QrCode, MousePointerClick } from "lucide-react"
 
 export interface LinkItem {
   id: string

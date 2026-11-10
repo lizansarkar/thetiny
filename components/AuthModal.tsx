@@ -8,7 +8,7 @@ import {
   DialogTitle,
   DialogDescription,
 } from "@/components/ui/dialog"
-import { Lock, Mail, ArrowRight } from "lucide-react"
+import { Lock, ArrowRight } from "lucide-react"
 
 interface AuthModalProps {
   isOpen: boolean
